@@ -1,0 +1,4 @@
+name: industry
+version: '${version}'
+main: de.prime.lounge.industry.Industry
+api-version: '1.19'
